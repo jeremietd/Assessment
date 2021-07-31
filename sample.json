@@ -1,0 +1,93 @@
+{
+    "What is the Chinese New Year animal for 2021?": [
+        {
+            "answer": "Ox",
+            "options": [
+                {
+                    "option1": "Dog",
+                    "option2": "Ox",
+                    "option3": "Tiger",
+                    "option4": "Snake"
+                }
+            ]
+        }
+    ],
+    "What is the capital of Indonesia?": [
+        {
+            "answer": "Jakarta",
+            "options": [
+                {
+                    "option1": "Bandung",
+                    "option2": "Surabaya",
+                    "option3": "Jakarta",
+                    "option4": "Bali"
+                }
+            ]
+        }
+    ],
+    "What is the capital of Malaysia?": [
+        {
+            "answer": "Kuala Lumpur",
+            "options": [
+                {
+                    "option1": "Penang",
+                    "option2": "Kuala Lumpur",
+                    "option3": "Johor Bahru",
+                    "option4": "Malacca"
+                }
+            ]
+        }
+    ],
+    "What is the most famous Mexican beer?": [
+        {
+            "answer": "Corona",
+            "options": [
+                {
+                    "option1": "Heineken",
+                    "option2": "Asahi",
+                    "option3": "Carlsberg",
+                    "option4": "Corona"
+                }
+            ]
+        }
+    ],
+    "Which country is not part of the European Union (EU)?": [
+        {
+            "answer": "United Kingdom",
+            "options": [
+                {
+                    "option1": "United Kingdom",
+                    "option2": "Germany",
+                    "option3": "Italy",
+                    "option4": "France"
+                }
+            ]
+        }
+    ],
+    "Which ocean surrounds the Maldives?": [
+        {
+            "answer": "Indian Ocean",
+            "options": [
+                {
+                    "option1": "Atlantic Ocean",
+                    "option2": "Pacific Ocean",
+                    "option3": "Indian Ocean",
+                    "option4": "Arctic Ocean"
+                }
+            ]
+        }
+    ],
+    "Who scored the first Premier League hat-trick?": [
+        {
+            "answer": "Eric Cantona",
+            "options": [
+                {
+                    "option1": "Cristiano Ronaldo",
+                    "option2": "Eric Cantona",
+                    "option3": "Wayne Rooney",
+                    "option4": "Sergio Aguero"
+                }
+            ]
+        }
+    ]
+}
