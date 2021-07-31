@@ -1,5 +1,5 @@
 # Usage
-<font color='red'>**DO NOT MOVE ANY FILE FOR IDEAL USAGE**</font>
+**DO NOT MOVE ANY FILE FOR IDEAL USAGE**
 
 ## Creating question list for Questions module
 Run "QA_generator.py" in terminal
