@@ -19,9 +19,3 @@ Run Assessment.py in terminal
 ```
 python3 Assessment.py
 ```
-
-### For MacOS users
-
-An app is available without using python in the CLI
-
-Just double-click on **ASM-MacOS.app**
