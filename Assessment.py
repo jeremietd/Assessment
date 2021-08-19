@@ -601,7 +601,7 @@ rounds.place(rely=0.05, relx=0.96, anchor="center")
 qa_frame = tk.Frame(QA, bg="#9AC3FD", bd=1)
 qa_frame.place(relx=0.5, rely=0.25, relwidth=0.7, relheight=0.25, anchor='n')
 
-qa_quest = tk.Label(qa_frame, font=('Helvetica', 20), anchor='center', bg="white")
+qa_quest = tk.Label(qa_frame, font=('Helvetica', 15), anchor='center', bg="white", wraplength=250)
 qa_quest.place(relwidth=1, relheight=1)
 
 qa_options1 = button(QA, bg="#9AC3FD", fg='white', justify='center',
